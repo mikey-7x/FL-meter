@@ -1,4 +1,3 @@
-# FL-meter
 # FL Meter (Frequency Counter & Inductance Meter)
 
 This Arduino-based **FL Meter** project is designed to measure **frequency** up to **7 MHz** and **inductance**, including both low and high resistive inductors. The project includes circuit diagrams and Arduino code to implement and extend the functionality.
@@ -139,3 +138,9 @@ This circuit adds an **amplifier stage** to increase signal strength and measure
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+
+## **📜 Credits**  
+Developed by **[mikey-7x](https://github.com/mikey-7x)** 🚀🔥  
