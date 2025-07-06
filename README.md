@@ -139,10 +139,11 @@ This circuit adds an **amplifier stage** to increase signal strength and measure
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-[other repository](https://github.com/mikey-7x?tab=repositories)
-
 ---
 
 
 ## **📜 Credits**  
 Developed by **[mikey-7x](https://github.com/mikey-7x)** 🚀🔥  
+
+
+[other repository](https://github.com/mikey-7x?tab=repositories)
