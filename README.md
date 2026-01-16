@@ -134,10 +134,18 @@ This circuit adds an **amplifier stage** to increase signal strength and measure
 - Implement digital filtering for stable readings
 
 ---
-
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is protected under the **GNU General Public License v3.0 (GPLv3)**.
+
+**Copyright (c) 2024 mikey-7x**
+
+You are free to use, modify, and distribute this software, but you must strictly follow these rules:
+* **Modifications:** If you modify this code and distribute it, you must open-source your changes under GPLv3.
+* **Commercial Use:** You can use this in commercial products, but the source code (including your modifications) must be made available to users.
+* **No Closed Source:** You cannot link this code into a closed-source proprietary program.
+
+See the [LICENSE](LICENSE) file for the full legal text.
 
 ---
 
